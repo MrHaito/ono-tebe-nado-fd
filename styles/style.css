@@ -131,10 +131,6 @@
   text-transform: uppercase;
 }
 
-.card {
-  position: relative;
-}
-
 .lots__card-list {
   display: flex;
   flex-wrap: wrap;
